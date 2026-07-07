@@ -113,7 +113,7 @@ START
 
 ---
 
-### 📈 Investment Tracking
+### 📈 Networth Tracker
 <img width="1600" height="856" alt="Investments" src="https://github.com/user-attachments/assets/b0a52c12-8ad7-46eb-9b96-2899643c26d0" />
 
 ---
